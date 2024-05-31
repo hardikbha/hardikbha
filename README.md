@@ -1,6 +1,5 @@
 
 
-![logo](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/05/DD.png)
 
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
 <h3 align="center">A Data Science Enthusiast from Himachal Pradesh, India</h3>
